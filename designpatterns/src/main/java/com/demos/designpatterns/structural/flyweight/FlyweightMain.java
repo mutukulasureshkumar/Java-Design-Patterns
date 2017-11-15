@@ -38,8 +38,8 @@ public class FlyweightMain {
 	/*
 	 * Explanation :: Flyweight Design Pattern
 	 * 
-	 * 	Flyweight design pattern is used when we need to create a lot of Objects of a same type of class. 
-	 *  Flyweight design pattern can be applied to reduce the load on memory by sharing objects.
+	 *  Flyweight design pattern is used when we need to create a lot of Objects of a same type of class, 
+	 *  flyweight design pattern can be applied to reduce the load on memory by sharing objects.
 	 * 
 	 */
 
