@@ -38,7 +38,7 @@ public class CommandMain {
 		 * 1. Client :: Client is the one who issues the Command.
 		 * 2. Command :: Command will be issues by the Client
 		 * 3. Invoker :: Invoker will takes the command and invokes the receiver.
-		 * 4. Receiver :: Receiver is the one who does the client command.
+		 * 4. Receiver :: Receiver is the one who does the client command..
 		 */
 	}
 
